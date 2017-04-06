@@ -12,13 +12,22 @@ namespace ProjectEuler.P4
         //Find the largest palindrome made from the product of two 3-digit numbers.
         static void Main(string[] args)
         {
-            //bool isPalindrome = false;
-            //string number;
-
-            //if (number.Reverse() == number)
-            //{
-
-            //}
+            string numberAsString;
+            for (int i = 100; i < 999; i++)
+            {
+                for (int j = 100; j < 999; j++)
+                {
+                    long number = i * j;
+                    numberAsString = number.ToString();
+                    if ((string)numberAsString.Reverse() == number.ToString())
+                    {
+                        numberAsString = number.ToString();
+                        Console.WriteLine("The loargest palindrome is " + number);
+                        
+                    }
+                }
+            }
+            //Console.WriteLine(numberAsString);
         }
     }
 }
