@@ -12,22 +12,52 @@ namespace ProjectEuler.P4
         //Find the largest palindrome made from the product of two 3-digit numbers.
         static void Main(string[] args)
         {
-            string numberAsString;
-            for (int i = 100; i < 999; i++)
+            #region 1stAttempt
+            //string numberAsString;
+            //for (int i = 100; i < 999; i++)
+            //{
+            //    for (int j = 100; j < 999; j++)
+            //    {
+            //        long number = i * j;
+            //        numberAsString = number.ToString();
+            //        if (numberAsString.Reverse() == number.ToString())
+            //        {
+            //            numberAsString = number.ToString();
+            //            Console.WriteLine("The loargest palindrome is " + number);
+
+            //        }
+            //    }
+            //}
+            #endregion
+
+            //Second attempt
+            long multiplication;
+            long result = 0;
+            string []  test = "";
+
+            for (int x = 100; x < 999; x++)
             {
-                for (int j = 100; j < 999; j++)
+                for (int y = 100; y < 999; y++)
                 {
-                    long number = i * j;
-                    numberAsString = number.ToString();
-                    if ((string)numberAsString.Reverse() == number.ToString())
+                    multiplication = (x * y);
+                    test = multiplication.ToString().ToArray(;
+                    
+                    
+
+                    if (multiplication.ToString() == test.Reverse())
                     {
-                        numberAsString = number.ToString();
-                        Console.WriteLine("The loargest palindrome is " + number);
-                        
+                        if (multiplication > result)
+                        {
+                            result = multiplication;
+                        }
                     }
+
+                    else { continue; }
                 }
             }
-            //Console.WriteLine(numberAsString);
+            Console.WriteLine("The largest palindrome of 3 digit numbers is: " + result);
+            Console.Read();
+
         }
     }
 }
