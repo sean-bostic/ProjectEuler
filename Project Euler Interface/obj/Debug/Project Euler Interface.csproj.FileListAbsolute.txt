@@ -1,0 +1,8 @@
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\bin\Debug\Project Euler Interface.exe.config
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\bin\Debug\Project Euler Interface.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\bin\Debug\Project Euler Interface.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project_Euler_Interface.Form1.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project_Euler_Interface.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.pdb

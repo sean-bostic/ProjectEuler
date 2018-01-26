@@ -17,7 +17,7 @@ namespace ProjectEuler.P7
         static void Main(string[] args)
         {
             int x = 0;
-            for (int i = 0; i <= 10001; i++)
+            for (int i = 0; i <= 10002; i++)
             {
                 for (int y = 2; y < i; y++)
                 {
