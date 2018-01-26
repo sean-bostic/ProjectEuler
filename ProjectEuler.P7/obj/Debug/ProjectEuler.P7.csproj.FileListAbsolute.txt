@@ -1,0 +1,5 @@
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P7\bin\Debug\ProjectEuler.P7.exe.config
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P7\bin\Debug\ProjectEuler.P7.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P7\bin\Debug\ProjectEuler.P7.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P7\obj\Debug\ProjectEuler.P7.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P7\obj\Debug\ProjectEuler.P7.pdb
