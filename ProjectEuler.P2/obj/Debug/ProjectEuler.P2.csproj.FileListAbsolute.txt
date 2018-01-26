@@ -3,3 +3,8 @@ C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler.P2
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler.P2\bin\Debug\ProjectEuler.P2.pdb
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler.P2\obj\Debug\ProjectEuler.P2.exe
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler.P2\obj\Debug\ProjectEuler.P2.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P2\bin\Debug\ProjectEuler.P2.exe.config
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P2\bin\Debug\ProjectEuler.P2.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P2\bin\Debug\ProjectEuler.P2.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P2\obj\Debug\ProjectEuler.P2.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P2\obj\Debug\ProjectEuler.P2.pdb
