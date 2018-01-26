@@ -1,0 +1,5 @@
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\P5\bin\Debug\P5.exe.config
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\P5\bin\Debug\P5.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\P5\bin\Debug\P5.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\P5\obj\Debug\P5.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\P5\obj\Debug\P5.pdb
