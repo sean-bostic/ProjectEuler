@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Project_Euler_Interface.Problems;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -42,6 +43,8 @@ namespace Project_Euler_Interface
                     richTextBox1.Text = "If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23." + "\n" + "\n" +
 
                                         "Find the sum of all the multiples of 3 or 5 below 1000.";
+                    textBox1.Text = P1.ProblemOne().ToString();
+                    //richTextBox2.Text = ReadAllText(P1.cs);
                     break;
 
                 case 1:
@@ -50,6 +53,7 @@ namespace Project_Euler_Interface
                                         "1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ..." + "\n" + "\n" +
 
                                         "By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.";
+                    textBox1.Text = P2.FibonacciSum().ToString();
                     break;
 
                 case 2:
