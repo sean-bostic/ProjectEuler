@@ -9,3 +9,4 @@ C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Pr
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P3\bin\Debug\ProjectEuler.P3.pdb
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P3\obj\Debug\ProjectEuler.P3.exe
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P3\obj\Debug\ProjectEuler.P3.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\ProjectEuler.P3\obj\Debug\ProjectEuler.P3.csprojResolveAssemblyReference.cache

@@ -60,18 +60,21 @@ namespace Project_Euler_Interface
                     richTextBox1.Text = "The prime factors of 13195 are 5, 7, 13 and 29." + "\n" + "\n" +
 
                                         "What is the largest prime factor of the number 600851475143 ? ";
+                    textBox1.Text = P3.LargestPrime();
                     break;
 
                 case 3:
                     richTextBox1.Text = "A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99." + "\n" + "\n" +
 
                                         "Find the largest palindrome made from the product of two 3 - digit numbers.";
+                    textBox1.Text = P4.largestPalindrome();
                     break;
 
                 case 4:
                     richTextBox1.Text = "2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder." + "\n" + "\n" +
 
                                         "What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20 ? ";
+                    textBox1.Text = P5.SmallestMultiple();
                     break;
 
                 case 5:
@@ -84,6 +87,7 @@ namespace Project_Euler_Interface
                                         "Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640." + "\n" + "\n" +
 
                                         "Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.";
+                    textBox1.Text = P6.SquareSum();
                     break;
 
                 case 6:

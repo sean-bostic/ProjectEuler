@@ -53,6 +53,10 @@
     </Compile>
     <Compile Include="Problems\P1.cs" />
     <Compile Include="Problems\P2.cs" />
+    <Compile Include="Problems\P3.cs" />
+    <Compile Include="Problems\P4.cs" />
+    <Compile Include="Problems\P5.cs" />
+    <Compile Include="Problems\P6.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
