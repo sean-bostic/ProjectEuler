@@ -6,4 +6,3 @@ C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Pr
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.csproj.GenerateResource.Cache
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.exe
 C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.pdb
-C:\Users\Sean\Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\Project Euler Interface\obj\Debug\Project Euler Interface.csprojResolveAssemblyReference.cache
