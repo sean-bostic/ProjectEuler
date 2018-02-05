@@ -16,25 +16,24 @@ namespace ProjectEuler.P7
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            int x = 0;
-            for (int i = 0; i <= 10002; i++)
+            int index = 1;
+            List<int> primes = new List<int> { 1 };
+            int i = primes[index - 1];
+            while (primes.Count < 10001)
             {
-                for (int y = 2; y < i; y++)
+                i += 2;
+                bool isPrime = true;
+                for (int j = 2; j < i / 2; j++)
                 {
-                    if (i%y != 0)
-                    {
-                        x += 1;
-                    }
+                    if (i % j != 0) continue;
+                    isPrime = false;
+                    break;
                 }
-
-                if (x == (i -2))
-                {
-                    Console.WriteLine(i + "\n");
-
-                    x = 0;
-                }
+                if (!isPrime) continue;
+                primes.Add(i);
+                index++;
             }
-
+            Console.WriteLine(primes[10000]);
             Console.ReadKey();
         }
     }
