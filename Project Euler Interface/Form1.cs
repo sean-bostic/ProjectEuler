@@ -97,6 +97,12 @@ namespace Project_Euler_Interface
                     textBox1.Text = P7.FindPrimeNumber();
                     break;
 
+                case 7:
+                    richTextBox1.Text = "Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?";
+                    textBox1.Text = P8.LargestProduct().ToString();
+                    break;
+
+
             }
         }
     }

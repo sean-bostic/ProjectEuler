@@ -62,7 +62,8 @@
             "Problem 4 - Largest Palindrome Product",
             "Problem 5 - Smallest Multiple",
             "Problem 6 - Sum square difference",
-            "Problem 7 - 10,001st Prime Number"});
+            "Problem 7 - 10,001st Prime Number",
+            "Problem 8 - Larget Product 1000 digit number"});
             this.comboBox1.Location = new System.Drawing.Point(26, 69);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(307, 21);
