@@ -33,7 +33,7 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.rtbCode = new System.Windows.Forms.RichTextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -92,13 +92,13 @@
             this.textBox1.Size = new System.Drawing.Size(223, 20);
             this.textBox1.TabIndex = 4;
             // 
-            // richTextBox2
+            // rtbCode
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(26, 313);
-            this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(307, 367);
-            this.richTextBox2.TabIndex = 5;
-            this.richTextBox2.Text = "";
+            this.rtbCode.Location = new System.Drawing.Point(26, 313);
+            this.rtbCode.Name = "rtbCode";
+            this.rtbCode.Size = new System.Drawing.Size(307, 367);
+            this.rtbCode.TabIndex = 5;
+            this.rtbCode.Text = "";
             // 
             // label2
             // 
@@ -171,7 +171,7 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.richTextBox2);
+            this.Controls.Add(this.rtbCode);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.progressBar1);
@@ -191,7 +191,7 @@
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.RichTextBox richTextBox2;
+        private System.Windows.Forms.RichTextBox rtbCode;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;

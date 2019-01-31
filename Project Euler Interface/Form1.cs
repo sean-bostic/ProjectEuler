@@ -32,7 +32,7 @@ namespace Project_Euler_Interface
         private void button1_Click(object sender, EventArgs e)
         {
             //copy code to clipboard
-            Clipboard.SetText(richTextBox2.Text);
+            Clipboard.SetText(rtbCode.Text);
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -44,6 +44,8 @@ namespace Project_Euler_Interface
 
                                         "Find the sum of all the multiples of 3 or 5 below 1000.";
                     textBox1.Text = P1.ProblemOne().ToString();
+                    P1 p1 = new P1();
+                    rtbCode.Text = p1.ToString();
                     //richTextBox2.Text = ReadAllText(P1.cs);
                     break;
 
